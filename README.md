@@ -1,5 +1,5 @@
 # 1.This is Reverse-Attention-with-Pyramid-Vision-Transformer-for-Polyp-Segmentation office code
-![整体架构](https://github.com/user-attachments/assets/e9e0000f-67e2-457b-b013-64898a91b070)
+![整体架构](https://github.com/user-attachments/assets/9459b847-1614-4305-8627-dc4cf815d27c)
 
 
 # 2.datase
